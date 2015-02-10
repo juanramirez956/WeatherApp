@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_get_weather">tell me weather</string>
+    <string name="edit_text_city_hint">type a city</string>
+    <string name="getting_weather_for_city">getting weather for %s city!</string>
+
+</resources>
